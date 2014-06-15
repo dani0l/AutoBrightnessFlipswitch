@@ -1,0 +1,9 @@
+Package: com.uroboro.autobrightnessflipswitch
+Name: AutoBrightnessFlipswitch
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A Simple Switch for the Flipswitch API!
+Maintainer: uroboro <uroboro845@gmail.com>
+Author: uroboro <uroboro845@gmail.com>
+Section: Addons (Flipswitch)
